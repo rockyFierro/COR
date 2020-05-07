@@ -1,8 +1,8 @@
-#Lambda Launch
-##1.  Lambda Orientation
-#Web Fundamentals
-##1.  User Interface and Git
-##2.  Advanced CSS and Intro JavaScript
+~~#Lambda Launch~~
+~~##1.  Lambda Orientation~~
+~~#Web Fundamentals~~
+~~##1.  User Interface and Git~~
+~~##2.  Advanced CSS and Intro JavaScript~~
 ##3.  JavaScript Fundamentals
 ###advanced array methods
 [video](https://youtu.be/zIRN-Gn8phU)
