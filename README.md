@@ -1,70 +1,70 @@
 
 ##  JavaScript Fundamentals
 
-###advanced array methods
+### advanced array methods
 
-[video](https://youtu.be/zIRN-Gn8phU)
+- [x] [video](https://youtu.be/zIRN-Gn8phU)
 
-[video](https://youtu.be/YNubYbAhtys)
+- [x] [video](https://youtu.be/YNubYbAhtys)
 
-###callbacks
-[challenge](http://jsbin.com/sadikid/edit?js,console)
+### callbacks
+- [x] [challenge](http://jsbin.com/sadikid/edit?js,console)
 
-[deep dive](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+- [x] [deep dive](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 
-[challenge](http://jsbin.com/wolayeb/edit?js,console)
+- [x] [challenge](http://jsbin.com/wolayeb/edit?js,console)
 
-###functional programming in javascript
+### functional programming in javascript
 
-[deep dive](https://opensource.com/article/17/6/functional-javascript)
+- [ ] [deep dive](https://opensource.com/article/17/6/functional-javascript)
 
-[deep dive](https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464)
+- [ ] [deep dive](https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464)
 
-[git](https://github.com/LambdaSchool/Array-Methods-and-Callbacks.git)
+- [ ] [git](https://github.com/LambdaSchool/Array-Methods-and-Callbacks.git)
 
-[video](https://youtu.be/d7G-A7wEztI)
+- [ ] [video](https://youtu.be/d7G-A7wEztI)
 
-[flex](https://github.com/rockyFierro/FLEX_JAVASCRIPT_I)
+- [ ] [flex](https://github.com/rockyFierro/FLEX_JAVASCRIPT_I)
 
-###scope and closure
+### scope and closure
 
-[video](https://youtu.be/ppb_O7UQZbY)
+- [ ] [video](https://youtu.be/ppb_O7UQZbY)
 
-[video](https://youtu.be/AgBoMqDO-08)
+- [ ] [video](https://youtu.be/AgBoMqDO-08)
 
-[functions scope challenge](https://codepen.io/lambdaschool/pen/gOpOjbp?editors=0012)
+-[ ] [functions scope challenge](https://codepen.io/lambdaschool/pen/gOpOjbp?editors=0012)
 
-[deep dive](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
+-[ ] [deep dive](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 
-[challange](https://github.com/LambdaSchool/web-module-challenge-scope-and-closure.git)
+- [ ] [challange](https://github.com/LambdaSchool/web-module-challenge-scope-and-closure.git)
 
-[video](https://youtu.be/fxdMFHGhHso)
+- [ ] [video](https://youtu.be/fxdMFHGhHso)
 
-[flex](https://github.com/rockyFierro/FLEX_JAVASCRIPT_II)
+- [ ] [flex](https://github.com/rockyFierro/FLEX_JAVASCRIPT_II)
 
-###prototypes and inheritance
+### prototypes and inheritance
 
-[video](https://youtu.be/RivFFKFbpXo)
+- [ ] [video](https://youtu.be/RivFFKFbpXo)
 
-[video](https://youtu.be/5jjDXm-f0SI)
+- [ ] [video](https://youtu.be/5jjDXm-f0SI)
 
-[deep dive - when NOT to use arrow functions](https://wesbos.com/arrow-function-no-no/)
+- [ ] [deep dive - when NOT to use arrow functions](https://wesbos.com/arrow-function-no-no/)
 
-[challange](https://codepen.io/lambdaschool/pen/GXdXYX)
+- [ ] [challange](https://codepen.io/lambdaschool/pen/GXdXYX)
 
-[git](https://github.com/rockyFierro/FLEX_PROTOTYPES.git)
+- [ ] [git](https://github.com/rockyFierro/FLEX_PROTOTYPES.git)
 
-[video](https://youtu.be/IeppjHHyVu0)
+- [ ] [video](https://youtu.be/IeppjHHyVu0)
 
-###classes
+### classes
 
-[video](https://youtu.be/D3Yx_ohAet4)
+- [ ] [video](https://youtu.be/D3Yx_ohAet4)
 
-[video](https://youtu.be/gnDkLbeof60)
+- [ ] [video](https://youtu.be/gnDkLbeof60)
 
-[git](https://github.com/rockyFierro/FLEX_CLASSES.git)
+- [ ] [git](https://github.com/rockyFierro/FLEX_CLASSES.git)
 
-[video](https://youtu.be/uO1N5mkOdOo)
+- [ ] [video](https://youtu.be/uO1N5mkOdOo)
 
 ### advanced array methods
 
