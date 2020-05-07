@@ -1,56 +1,70 @@
-<<<<<<< HEAD
-~~#Lambda Launch~~
-~~##1.  Lambda Orientation~~
-~~#Web Fundamentals~~
-~~##1.  User Interface and Git~~
-~~##2.  Advanced CSS and Intro JavaScript~~
-##3.  JavaScript Fundamentals
+
+##  JavaScript Fundamentals
+
 ###advanced array methods
+
 [video](https://youtu.be/zIRN-Gn8phU)
+
 [video](https://youtu.be/YNubYbAhtys)
+
 ###callbacks
 [challenge](http://jsbin.com/sadikid/edit?js,console)
+
 [deep dive](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+
 [challenge](http://jsbin.com/wolayeb/edit?js,console)
+
 ###functional programming in javascript
+
 [deep dive](https://opensource.com/article/17/6/functional-javascript)
+
 [deep dive](https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464)
+
 [git](https://github.com/LambdaSchool/Array-Methods-and-Callbacks.git)
+
 [video](https://youtu.be/d7G-A7wEztI)
+
 [flex](https://github.com/rockyFierro/FLEX_JAVASCRIPT_I)
+
 ###scope and closure
+
 [video](https://youtu.be/ppb_O7UQZbY)
+
 [video](https://youtu.be/AgBoMqDO-08)
+
 [functions scope challenge](https://codepen.io/lambdaschool/pen/gOpOjbp?editors=0012)
+
 [deep dive](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
+
 [challange](https://github.com/LambdaSchool/web-module-challenge-scope-and-closure.git)
+
 [video](https://youtu.be/fxdMFHGhHso)
+
 [flex](https://github.com/rockyFierro/FLEX_JAVASCRIPT_II)
+
 ###prototypes and inheritance
+
 [video](https://youtu.be/RivFFKFbpXo)
+
 [video](https://youtu.be/5jjDXm-f0SI)
+
 [deep dive - when NOT to use arrow functions](https://wesbos.com/arrow-function-no-no/)
+
 [challange](https://codepen.io/lambdaschool/pen/GXdXYX)
+
 [git](https://github.com/rockyFierro/FLEX_PROTOTYPES.git)
+
 [video](https://youtu.be/IeppjHHyVu0)
+
 ###classes
+
 [video](https://youtu.be/D3Yx_ohAet4)
+
 [video](https://youtu.be/gnDkLbeof60)
+
 [git](https://github.com/rockyFierro/FLEX_CLASSES.git)
+
 [video](https://youtu.be/uO1N5mkOdOo)
-##4.  WEB Unit 1 Build
-=======
-# Lambda Launch. 
-
-## 1.  Lambda Orientation. 
-
-# Web Fundamentals. 
-
-## 1.  User Interface and Git  
-
-## 2.  Advanced CSS and Intro JavaScript
-
-## 3.  JavaScript Fundamentals
 
 ### advanced array methods
 
@@ -120,8 +134,6 @@
 
 ## 4.  WEB Unit 1 Build
 
->>>>>>> 2033a54832d00f8071fa27d461cef0a0adebc274
-?????
 
 # Web Applications I
 
