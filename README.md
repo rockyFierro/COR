@@ -183,11 +183,11 @@
 
 - [ ] [video - lecture](https://youtu.be/Yar3Llxhifs)
 
-- [ ] [git](https://github.com/LambdaSchool/DOM-II.git)
+- [ ] [git](https://github.com/LambdaSchool/DOM-II.git) Lecture Thursday May 7th; Lab Sunday May 1oth
 
 ### COMPONENTS I
 
-- [ ] [video - anatomy of a component](https://youtu.be/1Z775bFt6xs)
+- [ ] [video - anatomy of a component](https://youtu.be/1Z775bFt6xs) 
 
 - [ ] [video - component creator functions](https://youtu.be/EKjI2jX0R2E)
 
@@ -195,7 +195,7 @@
 
 - [ ] [video - lecture](https://youtu.be/mAnvvOhz_oA)
 
-- [ ] [git](https://github.com/LambdaSchool/Newsfeed-Components)
+- [ ] [git](https://github.com/LambdaSchool/Newsfeed-Components) Lecture Monday May 11th; Lab Tuesday May 12th 
 
 ### COMPONENTS II
 
@@ -207,7 +207,11 @@
 
 - [ ] [video - lecture](https://youtu.be/XAMKKuJH7PY)
 
-- [ ] [git](https://github.com/LambdaSchool/github-usercard)
+- [ ] [git](https://github.com/LambdaSchool/github-usercard) Lecture Wednesday May 13th; Lab Thursday May 14th 
+
+
+###Applied Javascript Sprint
+- [ ] [git](https://github.com/LambdaSchool/Sprint-Challenge-Applied-Javascript) Lab Sunday May 17th 
 
 ## 2.  Intro to React
 
@@ -260,26 +264,15 @@ understand what state is.'
 
 - [ ] [video - passing state through props](https://youtu.be/PDLixDiT-BA)
 
-- [ ] 'Challenge
-
-- [ ] Create a new component to render the user’s age and pass it to UserInfo.
-
-
-
-- [ ] Stretch goal - Replace the single user object with an array containing several user objects with name and age properties, and 
+*****challenge - Create a new component to render the user’s age and pass it to UserInfo.
+Stretch goal - Replace the single user object with an array containing several user objects with name and age properties, and 
 any other information you would like to display. Use a map function to iterate over the props data in UserInfo and return a 
 single DisplayUser component. Pass the iterated object data to each newly created component and render the data dynamically in 
-your JSX.
-
-
-
-'
-
-- [ ] [challenge](https://codesandbox.io/embed/pwkl9zr140)
+your JSX.**
 
 - [ ] [video - lecture](https://youtu.be/uHH5wVq4iZo)
 
-- [ ] [git](https://github.com/LambdaSchool/React-Components-Insta-Clone)
+- [ ] [git](https://github.com/LambdaSchool/React-Components-Insta-Clone) Lecture Wednesday May 
 
 ### component side effects 
 
