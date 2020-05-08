@@ -8,71 +8,6 @@
 - [x] [video](https://youtu.be/YNubYbAhtys)
 
 ### callbacks
-- [x] [challenge](http://jsbin.com/sadikid/edit?js,console)
-
-- [x] [deep dive](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
-
-- [x] [challenge](http://jsbin.com/wolayeb/edit?js,console)
-
-### functional programming in javascript
-
-- [ ] [deep dive](https://opensource.com/article/17/6/functional-javascript)
-
-- [ ] [deep dive](https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464)
-
-- [ ] [git](https://github.com/LambdaSchool/Array-Methods-and-Callbacks.git)
-
-- [ ] [video](https://youtu.be/d7G-A7wEztI)
-
-- [ ] [flex](https://github.com/rockyFierro/FLEX_JAVASCRIPT_I)
-
-### scope and closure
-
-- [ ] [video](https://youtu.be/ppb_O7UQZbY)
-
-- [ ] [video](https://youtu.be/AgBoMqDO-08)
-
--[ ] [functions scope challenge](https://codepen.io/lambdaschool/pen/gOpOjbp?editors=0012)
-
--[ ] [deep dive](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
-
-- [ ] [challange](https://github.com/LambdaSchool/web-module-challenge-scope-and-closure.git)
-
-- [ ] [video](https://youtu.be/fxdMFHGhHso)
-
-- [ ] [flex](https://github.com/rockyFierro/FLEX_JAVASCRIPT_II)
-
-### prototypes and inheritance
-
-- [ ] [video](https://youtu.be/RivFFKFbpXo)
-
-- [ ] [video](https://youtu.be/5jjDXm-f0SI)
-
-- [ ] [deep dive - when NOT to use arrow functions](https://wesbos.com/arrow-function-no-no/)
-
-- [ ] [challange](https://codepen.io/lambdaschool/pen/GXdXYX)
-
-- [ ] [git](https://github.com/rockyFierro/FLEX_PROTOTYPES.git)
-
-- [ ] [video](https://youtu.be/IeppjHHyVu0)
-
-### classes
-
-- [ ] [video](https://youtu.be/D3Yx_ohAet4)
-
-- [ ] [video](https://youtu.be/gnDkLbeof60)
-
-- [ ] [git](https://github.com/rockyFierro/FLEX_CLASSES.git)
-
-- [ ] [video](https://youtu.be/uO1N5mkOdOo)
-
-### advanced array methods
-
-- [ ] [video](https://youtu.be/zIRN-Gn8phU)
-
-- [ ] [video](https://youtu.be/YNubYbAhtys)
-
-### callbacks
 
 - [ ] [challenge](http://jsbin.com/sadikid/edit?js,console)
 
@@ -97,8 +32,8 @@
 - [ ] [video](https://youtu.be/ppb_O7UQZbY)
 
 - [ ] [video](https://youtu.be/AgBoMqDO-08)
-
-- [ ] [functions scope challenge](https://codepen.io/lambdaschool/pen/gOpOjbp?editors=0012)
+ 
+- [ ] [functions scope challenge] (https://codepen.io/lambdaschool/pen/gOpOjbp?editors=0012)
 
 - [ ] [deep dive](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 
@@ -132,14 +67,9 @@
 
 - [ ] [video](https://youtu.be/uO1N5mkOdOo)
 
-## 4.  WEB Unit 1 Build
-
-
 # Web Applications I
 
 ## 1.  Applied JavaScript
-
-### APPLIED JAVASCRIPT
 
 ### DOM I
 
@@ -231,24 +161,7 @@
 
 - [ ] [deep dive - react documentation](https://reactjs.org/docs/thinking-in-react.html)
 
-- [ ] 'In your own, write a paragraph about what ReactJS is and what problems that it tries to solve.
-
-
-
-- [ ] Submit that paragraph to your Team Lead via Slack.'
-
 - [ ] [deep dive - problem solving](https://scotch.io/@anitashah/what-problems-does-reactjs-solve-when-must-you-select-reactjs)
-
-- [ ] 'Challenge
-
-- [ ] Start to build out React components from scratch. Have fun with this. Experiment with different elements.
-
-
-
-- [ ] Learn to explain what state is in web applications and demonstrate how to make a React component stateful
-
-Web apps are basically comprised of data (aka state), and things that change that data, or state. It is therefore vital to 
-understand what state is.'
 
 - [ ] [video - lecture](React Components and Component State for WEBPT16 w/ Dan Frehner)
 
@@ -264,21 +177,9 @@ understand what state is.'
 
 - [ ] [video - passing state through props](https://youtu.be/PDLixDiT-BA)
 
-*****challenge - Create a new component to render the user’s age and pass it to UserInfo.
-Stretch goal - Replace the single user object with an array containing several user objects with name and age properties, and 
-any other information you would like to display. Use a map function to iterate over the props data in UserInfo and return a 
-single DisplayUser component. Pass the iterated object data to each newly created component and render the data dynamically in 
-your JSX.**
-
 - [ ] [video - lecture](https://youtu.be/uHH5wVq4iZo)
 
-- [ ] [git](https://github.com/LambdaSchool/React-Components-Insta-Clone) Lecture Wednesday May 
-
-### component side effects 
-
-- [ ] [video - side effects in react](https://youtu.be/M5yZxpyub48)
-
-- [ ] [video - syncing effects](https://youtu.be/7oCm8Ih-ZCA)
+- [ ] [git](https://github.com/LambdaSchool/React-Components-Insta-Clone) 
 
 - [ ] [video - fetching data](https://youtu.be/jMa1nnILdNM)
 
